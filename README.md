@@ -18,4 +18,4 @@ A simple Python tool that:
 Clone this repo:
 ```bash
 git clone https://github.com/YOUR-USERNAME/password-strength-analyzer.git
-cd password-strength-analyze
+cd password-strength-analyzer
